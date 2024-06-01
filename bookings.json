@@ -1,0 +1,1 @@
+[{"carId": 1, "userId": 1, "dateFrom": "2024-06-01", "days": 3, "cost": 1500}, {"carId": 2, "userId": 3, "dateFrom": "2024-06-13", "days": 2, "cost": 1200}, {"carId": 2, "userId": 3, "dateFrom": "2024-06-13", "days": 4, "cost": 2400}, {"carId": 1, "userId": 5, "dateFrom": "2024-06-10", "days": 6, "cost": 3000}]
